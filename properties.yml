@@ -1,0 +1,5 @@
+APP_NAME: os-option-v2-dev
+MS_NAME: stock
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/stock.git
+SONAR_HOST_URL: http://sonar-os-option-v2-dev-cicd.52.172.12.252.nip.io
